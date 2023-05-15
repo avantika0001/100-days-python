@@ -27,6 +27,8 @@ origin
 
 $ git push
 
+$ git log
+
 $ touch README.md
 $ code README.md
 

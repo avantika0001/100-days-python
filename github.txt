@@ -1,0 +1,16 @@
+$ git status
+
+$ git add .
+
+$ git status
+
+$ git commit -m "COMMIT MESSAGE"
+
+$ git remote
+origin
+
+$ git push
+
+$ touch README.md
+$ code README.md
+

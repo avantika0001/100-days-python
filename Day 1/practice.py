@@ -26,7 +26,7 @@ print("New lines can be created with a backslash and n.")
 #input function
 '''This is used to make a multiline comment'''
 print("Hello! "+ input("what is your name?"))
-'''Thonny a code debuuger IDE AFOR PYTHON'''
+'''Thonny a code debuuger IDE FOR PYTHON'''
 
 # string length
 print(len(input("What is your name? Type it and get it's length ")))

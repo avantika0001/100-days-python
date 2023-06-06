@@ -89,3 +89,4 @@ while coffeeMachine_On:
     else:
         print("Please type a valid option!")                    
 
+#procedural programming top to bottom includes functions
